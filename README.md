@@ -11,3 +11,4 @@
 🚀 Building end-to-end Machine Learning projects<br>
 
 <hr>
+<p align="center">>🛠️ Tech Stack</p>🛠️ Tech Stack
